@@ -29,3 +29,10 @@ Every commit here is a real learning session. Every project
 ships something I didn't know how to make the week before.
 
 [LinkedIn](https://www.linkedin.com/in/bhaaveen) · [Email](mailto:bhaaveen@gmail.com)
+
+## Learning log
+
+### Week 1 (Jan 15)
+Learned: Transformers, tokens, context windows, LLM training basics.
+Built: This journal structure.
+Biggest insight: LLMs don't "understand" — they predict.
