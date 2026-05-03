@@ -1,18 +1,31 @@
-# AI Journey — 6-Month Learning Log
+# AI Journey — From IT Pro to AI Engineer
 
-Documenting my path from IT professional to AI Engineer.
-Started: [your date] | Goal: AI Engineer role by [target month]
+I'm documenting every step of a focused 6-month sprint to become 
+an AI Engineer — concepts, code, projects, and honest reflections.
 
-## What's in here
-| Folder | Contents |
-|--------|----------|
-| /concepts | One .md file per AI concept I learn |
-| /projects | Weekly mini-projects with code + notes |
-| /prompts | My tested Claude prompt library |
+**Started:** [date] · **Target:** AI Engineer role by [month]
 
-## Week-by-week progress
-- [x] Week 1 — LLM basics + GitHub setup
-- [ ] Week 2 — Python for AI
+## What's here
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/bhaaveen)
+| Folder | What you'll find |
+|--------|-----------------|
+| `/concepts` | Plain-English breakdowns of every AI concept I learn |
+| `/projects` | Weekly builds — real code, real mistakes, real progress |
+| `/prompts` | A tested Claude prompt library that grows every week |
+
+## Progress
+
+- [x] Week 1 — LLM fundamentals + dev environment setup
+- [ ] Week 2 — Python for AI (NumPy, Pandas, Matplotlib)
+
+## Why I'm doing this
+
+I've spent [X] years in IT working with [brief context — 
+e.g. infrastructure/support/networking]. AI is where I see 
+the next decade of impact, and I'd rather build in public 
+than study in private.
+
+Every commit here is a real learning session. Every project 
+ships something I didn't know how to make the week before.
+
+[LinkedIn](https://www.linkedin.com/in/bhaaveen) · [Email](mailto:bhaaveen@gmail.com)
